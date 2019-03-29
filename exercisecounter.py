@@ -25,7 +25,7 @@ class ExerciseCounter():
         
     def submitc(self):
         now = datetime.datetime.today().strftime('%d-%m-%Y')
-        with open('coffee.csv','a+') as d:
+        with open('exercise.csv','a+') as d:
             thewriter = csv.writer(d)
             thewriter.writerow([now,str(self.cofslider.get())])
             d.close()
