@@ -4,7 +4,7 @@
 <ul>
 <li> Learn more about data science</li>
 
-<li> Checking coffee and water consumption(l not a doctor, but to a real doctor those info can be useful) </li>
+<li> monitoring some everyday activities </li>
 
 </ul>
 
