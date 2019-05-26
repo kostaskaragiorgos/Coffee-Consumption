@@ -1,8 +1,10 @@
 from tkinter import *
 from tkinter import messagebox as msg
+
 import datetime
 import csv
 import os
+
 class Medical():
     def __init__(self,master):
         self.master = master
