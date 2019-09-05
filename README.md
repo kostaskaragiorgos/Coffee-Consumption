@@ -14,4 +14,8 @@
   <li> csv (conda install -c anaconda csvkit) </li>
 </ul>
 
+**Current Version**
+
+<p><img src ="Medical.png" title = "Medical Version"/> </p>
+
 
