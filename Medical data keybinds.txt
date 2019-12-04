@@ -1,0 +1,21 @@
+File
+===========================
+Ctrl + C COFFEE CONSUMPTION 
+Ctrl + W WATER CONSUMPTION
+Alt + F4 Exit
+=============
+Show
+=======================
+Alt + S Show Comparison
+Alt + W Show Water
+Alt + C Show Coffee
+===================
+About
+==============
+Ctrl + I About
+==============
+Help
+==============
+Ctrl + F1 Help
+ 
+
