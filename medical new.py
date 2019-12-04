@@ -31,7 +31,7 @@ class Medical():
         self.menumain = Menu(self.master)
         self.file_menumain = Menu(self.menumain,tearoff = 0)
         self.file_menumain.add_command(label = "COFFEE CONSUMPTION",accelerator = 'Ctrl+C',command = self.cof)
-        self.file_menumain.add_command(label = "WATTER CONSUMPTION",accelerator = 'Ctrl+W',command = self.wat)
+        self.file_menumain.add_command(label = "WATER CONSUMPTION",accelerator = 'Ctrl+W',command = self.wat)
         self.file_menumain.add_command(label="Exit",accelerator = 'Alt+F4',command = self.exitmenu)
         self.menumain.add_cascade(label = "File",menu=self.file_menumain)
         
