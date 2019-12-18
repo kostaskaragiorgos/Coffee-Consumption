@@ -10,6 +10,7 @@
 
  <ul>
   <li> csv (conda install -c anaconda csvkit) </li>
+  <li> matplotlib (conda install -c conda-forge matplotlib) </li>
 </ul>
 
 **Current Version**
