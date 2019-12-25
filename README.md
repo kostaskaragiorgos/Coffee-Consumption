@@ -6,6 +6,16 @@
 <li> monitoring some everyday activities </li>
 </ul>
 
+## FILES
+ <ul>
+  <li> Medical data keybinds.txt (keybinds file) </li>
+  <li> Medical.png (file version) </li>
+  <li> coffee.csv (csv file for coffee consumption) </li>
+  <li> med.py ( the python file ) </li>
+  <li> medical new.py (the update of the python file) </li>
+  <li> water.csv(csv file for water consumption) </li>
+ </ul>
+  
 ## Dependencies
 
  <ul>
