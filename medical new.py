@@ -27,6 +27,8 @@ class Medical():
                 thewriter = csv.writer(w)
                 thewriter.writerow(['DAY','BOTTELS_OF_WATER(500ml)'])
                 w.close()
+
+        #menu
         
         self.menumain = Menu(self.master)
         self.file_menumain = Menu(self.menumain,tearoff = 0)
